@@ -15,7 +15,7 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	<?php
+	
 // enter your RCA ID here
 define('RCA_ID', 'ex4mp13-ex4mp13-ex4mp13-ex4mp13');
 
